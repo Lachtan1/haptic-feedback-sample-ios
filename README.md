@@ -1,7 +1,7 @@
-# Haptic Sample Project
+# Haptic Feedback Sample Project
 
 
-This is an example project demonstrating how to trigger haptic feedback on compatible iOS devices.
+This is an sample project demonstrating how to trigger haptic feedback on compatible iOS devices.
 
 
 
